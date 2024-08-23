@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/adamavixio/go/std/container/seq"
+	"github.com/adamavixio/go/std/seq"
 )
 
 func TestMinHeap(t *testing.T) {

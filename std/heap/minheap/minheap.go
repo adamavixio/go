@@ -3,7 +3,7 @@ package minheap
 import (
 	"cmp"
 
-	"github.com/adamavixio/go/std/container/heap/slice"
+	"github.com/adamavixio/go/std/heap/slice"
 )
 
 func Init[H ~[]E, E cmp.Ordered](h *H) {
